@@ -1,2 +1,7 @@
 # Big Mountain Resort Pricing Model
-The purpose of this data science project is to come up with a pricing model for ski resort tickets in our market segment
+
+
+### Problem Statement:
+    What opportunities exist for Whitefish Resort to effectively develop and implement a new pricing strategy that can maximize capitalization in their facilities investments to       offset their recent additional operating cost by $1,540,000 this season
+    
+
