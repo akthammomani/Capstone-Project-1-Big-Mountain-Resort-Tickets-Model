@@ -30,6 +30,11 @@ The expected number of visitors over the season is 350,000 and, on average, visi
 ## Feature Engineering:
 
  * **Feature Correlation heatmap**: a great way to gain a high level view and idnetify patterns of relationships amongst the features:
+     * summit and base elevation are quite highly correlated. This isn't a surprise. 
+     * AdultWeekend ticket price, we see quite a few reasonable correlations. fastQuads stands out, along with Runs and Snow Making_ac. 
+     * The last one is interesting. Visitors would seem to value more guaranteed snow, which would cost in terms of snow making equipment, which would drive prices and costs up.
+     * As well as Runs, total_chairs is quite well correlated with ticket price. This is plausible; the more runs you have, the more chairs you'd need to ferry people to them! Interestingly, they may count for more than the total skiable terrain area. For sure, the total skiable terrain area is not as useful as the area with snow making. People seem to put more value in guaranteed snow cover rather than more variable terrain area.
+ 
  ![correclations_heat](https://user-images.githubusercontent.com/67468718/103321593-46df9000-49ef-11eb-95e4-ed68a07ca5b8.JPG)
 
 
