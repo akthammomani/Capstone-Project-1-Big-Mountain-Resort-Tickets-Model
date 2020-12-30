@@ -51,7 +51,6 @@ The expected number of visitors over the season is 350,000 and, on average, visi
   * **Final Model Selection**: After testing both the linear model and random forest model, the project will be moving forward with the forest regression model. Comparison of the two demonstrated that performance on the test set was consistent cross-validation results. Additionally, the cross-validation mean absolute error was lower using the random forest regressor.
   
 ## Recommendations: 
-
   * Our Model suggests that Mountain Resort’s ticket price is lower than the predicted model by 16.31%, and the resort have many potential scenarios for either cutting costs by closing runs or increasing ticket price by increasing vertical drop, adding acres snow making or increasing the longest run.
   * Increasing the vertical drop by 150 ft would increase the ticket price by 10.44% from $81 to $89.46, resulting in revenue increase by $14,811,594.
   * Adding 2 acres of snow making would increase the ticket price by 12% from $81 to $90.75, resulting in revenue increase by $17,068,841.
@@ -65,7 +64,6 @@ The expected number of visitors over the season is 350,000 and, on average, visi
     ![runs](https://user-images.githubusercontent.com/67468718/103326653-3d155700-4a06-11eb-8e4f-c90e7c3a866d.JPG)
     
 ## Conclusion: 
-
 After applying our Model for ski resort ticket price and leverage it to explore Big Mountain Resort’s potential scenarios for increasing revenue, we can conclude that:
   * The best scenario where we managed to gain the highest revenue increase possible was by increasing the vertical drop by 150 ft, adding one Chair Lift, adding one run and adding 2 acres of snow making cover. This scenario has increased ticket price by 12% from $81 to $90.75, resulting in a bottom-line increase by $15,528,841 (After deducting operating costs = $1.54M).
   * Due to lack of data in regards of operating cost per used run and weekdays ticket price, our model cannot recommend closing down used runs or implementing a dynamic ticket pricing.
