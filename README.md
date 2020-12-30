@@ -63,7 +63,7 @@ The expected number of visitors over the season is 350,000 and, on average, visi
     
     ![runs](https://user-images.githubusercontent.com/67468718/103326653-3d155700-4a06-11eb-8e4f-c90e7c3a866d.JPG)
     
-    <p align="center">
+<p align="center">
   <img width="660" height="500" src="https://user-images.githubusercontent.com/67468718/103326653-3d155700-4a06-11eb-8e4f-c90e7c3a866d.JPG">
 </p>
 
@@ -75,7 +75,7 @@ After applying our Model for ski resort ticket price and leverage it to explore 
   
   ![Final](https://user-images.githubusercontent.com/67468718/103326714-849be300-4a06-11eb-9cad-8a898f6f9319.JPG)
   
-      <p align="center">
+<p align="center">
   <img width="660" height="500" src="https://user-images.githubusercontent.com/67468718/103326714-849be300-4a06-11eb-9cad-8a898f6f9319.JPG">
 </p>
 
