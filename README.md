@@ -36,7 +36,10 @@ The expected number of visitors over the season is 350,000 and, on average, visi
      * As well as Runs, total_chairs is quite well correlated with ticket price. This is plausible; the more runs you have, the more chairs you'd need to ferry people to them! Interestingly, they may count for more than the total skiable terrain area. For sure, the total skiable terrain area is not as useful as the area with snow making. People seem to put more value in guaranteed snow cover rather than more variable terrain area.
  
  ![correclations_heat](https://user-images.githubusercontent.com/67468718/103321593-46df9000-49ef-11eb-95e4-ed68a07ca5b8.JPG)
+ 
+  * **Feature Correlation Scatterplots**: Correlations, particularly viewing them together as a heatmap, can be a great first pass at identifying patterns. But correlation can mask relationships between two variables
 
+![resort_Scatter](https://user-images.githubusercontent.com/67468718/103321868-8d81ba00-49f0-11eb-9fb6-26dc1a4c91b1.JPG)
 
 
 
