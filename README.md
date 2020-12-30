@@ -62,7 +62,7 @@ The expected number of visitors over the season is 350,000 and, on average, visi
     * Because we don’t know the operating cost per used run, we can’t determine how much cost saving will be offset the loss in revenue after closing more than one run.
        
 <p align="center">
-  <img width="450" height="500" src="https://user-images.githubusercontent.com/67468718/103326653-3d155700-4a06-11eb-8e4f-c90e7c3a866d.JPG">
+  <img width="550" height="500" src="https://user-images.githubusercontent.com/67468718/103326653-3d155700-4a06-11eb-8e4f-c90e7c3a866d.JPG">
 </p>
 
     
