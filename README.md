@@ -1,7 +1,5 @@
 # ✰ Big Mountain Resort Pricing Model
 
-![Resort](https://user-images.githubusercontent.com/67468718/103321199-58c03380-49ed-11eb-9ab2-8f1063fd2ab9.JPG)
-
 ![](Images/Resort.JPG)
 
 ## ✰ Problem Statement: 
