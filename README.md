@@ -1,3 +1,5 @@
+# ✰ Big Mountain Resort Pricing Model
+
 ![](Images/Resort.JPG)
 
 ## ✰ Problem Statement: 
