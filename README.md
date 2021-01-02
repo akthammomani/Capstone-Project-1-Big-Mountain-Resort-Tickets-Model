@@ -2,6 +2,8 @@
 
 ![Resort](https://user-images.githubusercontent.com/67468718/103321199-58c03380-49ed-11eb-9ab2-8f1063fd2ab9.JPG)
 
+![](Images/Resort.JPG)
+
 ## ✰ Problem Statement: 
     
 What opportunities exist for Big Mountain Resort to effectively develop and implement a new pricing strategy that can maximize capitalization in their facilities investments to offset their recent additional operating cost by $1,540,000 this season.
